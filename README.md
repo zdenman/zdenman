@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently learning html/css & javascript
+- 🌱 I’m currently learning HTML, CSS, SaSS, JavaScript & UX Design
 
 <!--
 **zdenman/zdenman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
