@@ -1,6 +1,6 @@
 ### Hi there 👋
-- I am UX Designer
-- 🌱 I’m currently learning JavaScript
+- I am UX Designer and front-end web developer
+- 🌱 I’m currently learning React
 
 <!--
 **zdenman/zdenman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
